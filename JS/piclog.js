@@ -30,9 +30,15 @@ var categories = [
 	 {panda: ""},
 	 {panda: ""},
 	 {panda: ""}], 
-	
-	[{purple: ""}, 
-	 {blue: ""}, 
-	 {green: ""}, 
-	 {pink: ""}]
+	//colors
+	[{blue: "#20B2AA"},
+	 {light_blue: "#B0E0E6"}, 
+	 {light_purple: "#EE82EE"},
+	 {purple: "#BA55D3"}, 
+	 {light_green: "#90EE90"}, 
+	 {green: "#32CD32"},
+	 {light_pink: "#FFC0CB"},
+	 {light_yellow: "#F0E68C"},
+	 {orange: "#FFA500"},
+	 {light_orange: "#FAA460"}]
 ];
