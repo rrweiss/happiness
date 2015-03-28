@@ -33,9 +33,15 @@ var categories = [
 	 {panda: "http://teacher.scholastic.com/commclub/babypanda_activity1/assets/images/photo_cvr_babypanda_hr.jpg"},
 	 {panda: "http://media3.s-nbcnews.com/j/streams/2013/August/130813/6C8613205-tdy-130813-baby-panda-07.blocks_desktop_medium.jpg"},
 	 {panda: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGSONbUUKOZXvj-BuukE_7ODqKjYhZ0ha4e9VLVcqDLcohj0Sh"}], 
-	
-	[{purple: ""}, 
-	 {blue: ""}, 
-	 {green: ""}, 
-	 {pink: ""}]
+
+	[{blue: "#20B2AA"},
+	 {light_blue: "#B0E0E6"}, 
+	 {light_purple: "#EE82EE"},
+	 {purple: "#BA55D3"}, 
+	 {light_green: "#90EE90"}, 
+	 {green: "#32CD32"},
+	 {light_pink: "#FFC0CB"},
+	 {light_yellow: "#F0E68C"},
+	 {orange: "#FFA500"},
+	 {light_orange: "#FAA460"}]
 ];
