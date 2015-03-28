@@ -5,7 +5,7 @@ var categories = [
 	 {random: ""}, 
 	 {random: ""}, 
 	 {random: ""}], 
-	
+	//animals
 	[{dog: ""},
 	 {dog: ""},
 	 {dog: ""}, 
